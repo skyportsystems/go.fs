@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/go.fs (fetch)
+origin	git@github.com:skyportsystems/go.fs (push)
+upstream	https://github.com/kr/fs.git (fetch)
+upstream	https://github.com/kr/fs.git (push)
